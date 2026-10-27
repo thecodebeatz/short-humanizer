@@ -1,0 +1,16 @@
+{
+  "name": "short-humanizer",
+  "description": "The Short Humanizer skill: remove AI tells from text with a 2,587-character prompt",
+  "owner": {
+    "name": "Tomás Jaramillo",
+    "url": "https://github.com/thecodebeatz"
+  },
+  "plugins": [
+    {
+      "name": "short-humanizer",
+      "source": "./",
+      "description": "A 2,587-character skill that removes 26 common AI-writing tells from text and chat replies",
+      "category": "productivity"
+    }
+  ]
+}

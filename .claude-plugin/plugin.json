@@ -1,0 +1,14 @@
+{
+  "name": "short-humanizer",
+  "displayName": "Short Humanizer",
+  "version": "1.0.0",
+  "description": "A 2,587-character skill that removes 26 common AI-writing tells from text and chat replies",
+  "author": {
+    "name": "Tomás Jaramillo",
+    "url": "https://github.com/thecodebeatz"
+  },
+  "homepage": "https://github.com/thecodebeatz/short-humanizer",
+  "repository": "https://github.com/thecodebeatz/short-humanizer",
+  "license": "MIT",
+  "keywords": ["humanizer", "writing", "ai-tells", "ai-slop", "prose"]
+}

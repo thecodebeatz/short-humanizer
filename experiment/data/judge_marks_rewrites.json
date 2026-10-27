@@ -1,0 +1,7937 @@
+{
+ "blog_base": [
+  {
+   "tell": "forced_triad",
+   "quote": "Walk through a parking lot, scroll through real-estate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "run_up",
+   "quote": "and a pattern emerges:",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Renovated homes offer greige floors",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "The impression is not entirely nostalgia.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "What we are seeing is the combined effect",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "In short: color has not become impossible.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It has become something institutions and consumers often",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "not necessarily statements of eccentricity",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "is doing a lot of work here.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the pink diner, not the unremarkable beige restaurant",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "So the world has not uniformly lost saturation.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Rather, many of the durable, expensive things",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car is an expressive object, but it",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "A preference becomes a feedback loop.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "becomes a feedback loop",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "This does not mean neutral colors always have",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The important point is that buyers and sellers",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "the contemporary visual language of technology and luxury",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "What looks like an absence of personality can",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "has to function not just as a place",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "not just as a place to live but",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone’s favorite kitchen—and someone else’s renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The result is an interior designed to be",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "are not the same thing.",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But timelessness is not an objective property of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neutral design often feels less like a style",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos have faced another pressure: they must work",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Distinctiveness can be lost in the pursuit of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "And simplification is not the same as desaturation.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "but they are not exactly the same trend.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "became a portable vocabulary",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "recognizable, commercially available, and reassuringly contemporary",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "A neutral room can serve as a stage",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet is full of color, but the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "There is a broader thread connecting these choices",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "When purchases are costly, audiences are broad, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "neutrality offers plausible protection",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "You can change the lighting. You can put",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "You can add colorful cushions later.",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "No conspiracy is required.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can collectively produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success is a reminder that tastes",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Nor is neutral design inherently bad.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "The problem is not any particular shade.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "It is the narrowing of choices until one",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "would require more than deciding that orange is",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "making room for specificity, accepting that not everyone",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Color returns when pleasing someone becomes more important",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "more important than offending no one.",
+   "audit": "kept"
+  }
+ ],
+ "blog_humanizer_1": [
+  {
+   "tell": "forced_triad",
+   "quote": "In parking lots, real-estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "A car offers a way to express personal",
+   "audit": "kept"
+  },
+  {
+   "tell": "ing_tail",
+   "quote": "reinforcing the apparent preference.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "vague_connection",
+   "quote": "Those colors also carry associations of their own.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing one can be a deliberate expression of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These decisions produce interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also acquired cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neutral design can seem to sit outside fashion",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A logo now has to remain recognizable across",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo design and neutral interiors share certain preferences",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, copy, and buy",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That helps explain why an internet full of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a purchase is costly, an audience is broad",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A restaurant can change its lighting, and a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "No coordination is necessary for this to happen.",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "renewed interest in decorative styles offer alternatives",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success suggests that tastes can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "What becomes limiting is the expectation",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "A wider range of preferences needs room to",
+   "audit": "kept"
+  }
+ ],
+ "blog_humanizer_10": [
+  {
+   "tell": "forced_triad",
+   "quote": "losing shadows, textures, and sometimes color.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Financial caution, global marketing, and changing technology have",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That matters when holding inventory is expensive.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Over time, these decisions reinforce one another.",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "perform as a marketable asset",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite room and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These choices produce interiors that few people strongly",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also gained cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a separate practical pressure",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Flatter logos and more neutral interiors have developed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet contains plenty of color, while many",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are expensive, audiences are broad, or trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality offers some reassurance.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions can be replaced, lighting can be",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "No coordinated effort is needed for this to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "also offer alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The loss comes when the range of acceptable",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Those are risks that the current preference for",
+   "audit": "kept"
+  }
+ ],
+ "blog_humanizer_11": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that difference matters.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Over time, those decisions reinforce one another.",
+   "audit": "kept"
+  },
+  {
+   "tell": "vague_connection",
+   "quote": "also have associations with technology and luxury",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That makes distinctive taste feel like a financial",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These pressures favor interiors that few people will",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo flattening and neutral interiors overlap as trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Many of these decisions involve managing risk.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A household, restaurant owner, or multinational brand",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Costly purchases, broad audiences, and fast-moving trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions can come later. Lighting can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually reasonable decisions can produce",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "It becomes limiting when financial and cultural pressures",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_12": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that difference matters.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the next.",
+   "audit": "kept"
+  },
+  {
+   "tell": "vague_connection",
+   "quote": "also have associations with technology and luxury",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "A cobalt kitchen might be someone’s favorite room",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These pressures favor interiors that few people will",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a different practical pressure",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo flattening and neutral interiors overlap, but they",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to find, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That helps explain why an internet full of",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "restaurant owners trying to attract customers, or brands",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions, different lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible choices can produce",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "renewed interest in decorative styles offer alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "What becomes tiresome is the narrowing of choices",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Still, there is value in choosing something",
+   "audit": "kept"
+  }
+ ],
+ "blog_humanizer_2": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Over time, those decisions reinforce one another.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "That can make distinctive taste feel like a",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The resulting interiors may be difficult to dislike",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also gained cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face another pressure: they must work",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "but the two have different causes as well.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions can come later. Lighting can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of decisions that make sense to individual",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "and playful branding offer alternatives",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their success varies, as tastes do.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "What becomes limiting is the expectation",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "would involve more than orange coming back into",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a room, a car, or a shop",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_3": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that difference matters.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the others.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing a neutral color can be an expression",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite room and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These pressures favor interiors that few people strongly",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also acquired cultural prestige.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a different practical pressure",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo flattening and neutral interiors have developed alongside",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "So even on an internet full of color",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Risk management runs through many of these decisions.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a restaurant owner trying to attract customers, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions can be replaced later. Lighting can",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of such decisions can produce a monotonous",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "all offer alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There is value in visual calm.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The difficulty comes when the range of acceptable",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_4": [
+  {
+   "tell": "forced_triad",
+   "quote": "Walk through a parking lot, scroll through real-estate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that difference matters.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Those choices reinforce one another.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These interiors are designed to attract as few",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face another pressure: they must work",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo flattening and neutral interiors have developed alongside",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to find, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That helps explain why physical spaces built to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a household, a restaurant owner, or a multinational",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions, different lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "renewed interest in decorative styles offer alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success suggests that tastes can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how narrow the available choices",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_5": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Financial caution, global marketing, and changing technology all",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car can express its owner's taste, but",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Holding inventory costs money, so that difference matters.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Over time, each decision reinforces the next.",
+   "audit": "kept"
+  },
+  {
+   "tell": "vague_connection",
+   "quote": "Those colors have associations of their own, too.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "work as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "one person's favorite room and another person's renovation",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These pressures produce interiors that are hard to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also acquired cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neutral design can feel almost styleless because",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a different set of practical demands.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Flatter logos and more neutral interiors have developed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That helps explain why an internet full of",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Many of these choices come down to managing",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A household, restaurant owner, or multinational brand",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality seems to offer some protection.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "cushions that are easy to replace, lighting that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can add up",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "and playful branding offer alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The restriction comes when one aesthetic becomes",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_6": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they have made color a choice that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that difference matters.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the next.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing a neutral color can be a deliberate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These pressures favor interiors that few people will",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a different pressure: they must work",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo design and neutral interiors share some influences",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to find, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "So while the internet is full of color",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For households, restaurant owners, and multinational brands",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions, different lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of decisions that make sense individually can",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "renewed interest in decorative styles offer alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how little room remains",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "would require more than another fashion for orange.",
+   "audit": "kept"
+  }
+ ],
+ "blog_humanizer_7": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, they make color feel like a choice",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that matters.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the others.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing a neutral color can be a deliberate",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "That can make distinctive taste seem like a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The resulting interiors may be easy for most",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neutral design feels less like a style when",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a different pressure",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo design and neutral interiors share some tendencies",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "So even though the internet is full of",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Many of these choices involve managing risk.",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality offers some protection.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions, new lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "saturated interiors, colorful appliances, and renewed interest",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "playful branding offer other examples",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how narrow the available choices",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_8": [
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "global marketing encourages consistency, and changing technology",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Together, these pressures have made color a choice",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "When inventory is expensive, that matters.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the next.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "They may give people fewer reasons to love",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became prestigious.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos face a practical pressure of their own",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to find, imitate, and buy",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That helps explain why an internet full of",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality offers some reassurance.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions later, change the lighting, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "No one needs to coordinate these choices.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how narrow the choices become",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "would involve more than bringing orange back into",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a room, a car, or a shop",
+   "audit": "dropped"
+  }
+ ],
+ "blog_humanizer_9": [
+  {
+   "tell": "forced_triad",
+   "quote": "In parking lots, real-estate listings, and corporate logos",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "fewer shadows, textures, and sometimes colors",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "They leave less room for the choices someone",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also gained cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "but their changes aren't identical.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "So even though the internet is full of",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality offers some protection.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually reasonable decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how little choice remains",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a particular room, car, or shop",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_1": [
+  {
+   "tell": "forced_triad",
+   "quote": "Successive corporate logos, storefronts, and apps",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dropping shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer striking contrasts with today",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "A car offers a way to express personal",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "many buyers also expect to sell it someday",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the others.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "the contemporary visual language of technology and luxury",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "serve as a marketable asset",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These choices produce interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "a cultural judgment, not an objective description",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "A neutral room can serve as a stage",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even though the internet is full of color",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions later, change the lighting, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how choices narrow",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Making orange fashionable again would only go so",
+   "audit": "kept"
+  }
+ ],
+ "blog_short_humanizer_10": [
+  {
+   "tell": "forced_triad",
+   "quote": "In parking lots, real-estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car allows people to express their taste",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing either can express a carefully cultivated identity.",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "function as a marketable asset",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These choices produce interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos must work across an enormous range",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "a neutral room can serve as a backdrop",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet is full of color, while the",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions, change the lighting, or put",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "What troubles me is the narrowing of choices",
+   "audit": "kept"
+  }
+ ],
+ "blog_short_humanizer_11": [
+  {
+   "tell": "forced_triad",
+   "quote": "parking lots, real-estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "with shadows, textures, and sometimes color removed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car is an expressive object and an",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing a neutral color can express a carefully",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These interiors are designed to be difficult",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The flattening of logos and the growing use",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "a neutral room can serve as a backdrop",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Many physical spaces built to appear on the",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions, different lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer visible alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The problem comes when choices narrow",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_12": [
+  {
+   "tell": "forced_triad",
+   "quote": "In parking lots, real-estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "with shadows, textures, and sometimes color itself removed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "People use cars to express their taste",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the next.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Those associations give buyers another reason to choose",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste can become a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "One buyer's favorite cobalt kitchen is another buyer's",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These decisions produce interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also acquired cultural prestige, beyond its economic",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A logo must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The flattening of logos and the shift toward",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even on an internet full of color",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "whether a household, restaurant owner, or multinational brand",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions later, change the lighting, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions of this kind",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The problem arises when choices narrow enough",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "would require more than deciding that orange is",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a kitchen, a car, or a place to",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_2": [
+  {
+   "tell": "forced_triad",
+   "quote": "parking lots, real estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "with shadows, textures, and sometimes color removed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car can express its owner's taste, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the next.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing either can be a deliberate way to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Resale concerns also shape housing choices",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "serve as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste can become a liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These choices produce interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also acquired cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "but they are different trends.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Businesses could recognize the look, buy the materials",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Although the internet is full of color",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "whether a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions, change the lighting, or put",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer visible alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how narrow the choices become",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_3": [
+  {
+   "tell": "forced_triad",
+   "quote": "Walk through a parking lot, scroll through real-estate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "removing shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car is an expressive object and an",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "the contemporary visual language of technology and luxury",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing these colors can express a carefully cultivated",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "function as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These interiors are often difficult to dislike",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the default rather than a style someone chose",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A logo must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The flattening of logos and the neutralization of",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "A neutral room can serve as a stage",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even as the internet displays abundant color",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Households, restaurant owners, and multinational brands",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "When purchases are costly, audiences are broad, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "People can add colorful cushions, change the lighting",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The narrowing of choices becomes a problem",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_4": [
+  {
+   "tell": "forced_triad",
+   "quote": "parking lots, real-estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car is an expressive object and an",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the others.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "the contemporary visual language of technology and luxury",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The apparent lack of personality can be a",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These pressures favor interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "For a household, a restaurant owner, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions later, change the lighting, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer visible alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is how narrowly choices can shrink",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Making orange fashionable again would do little on",
+   "audit": "kept"
+  }
+ ],
+ "blog_short_humanizer_5": [
+  {
+   "tell": "forced_triad",
+   "quote": "Parking lots, real estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "with shadows, textures, and sometimes color itself removed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "though the world has not uniformly lost saturation.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car is an expressive object and an",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the others.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "the contemporary visual language of technology and luxury",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "People can choose these colors to express a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "serve as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These choices produce interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious, for reasons beyond",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "neutral design often feels less like a style",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet is full of color, while people",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Households, restaurant owners, and multinational brands",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Costly purchases, broad audiences, and fast-moving trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "add colorful cushions later, change the lighting, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is that choices narrow",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Making orange fashionable again would only go so",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_6": [
+  {
+   "tell": "forced_triad",
+   "quote": "parking lots, real estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer striking contrasts with today",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car gives its owner a way to",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Each decision reinforces the others.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "the contemporary visual language of technology and luxury",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Buyers and manufacturers can cultivate an identity through",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These interiors are designed to be difficult",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the default rather than a particular style",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A logo may need to work on everything",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The flattening of logos and the neutralization of",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "A neutral room can serve as a stage",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Although the internet is full of color",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A household, restaurant owner, or multinational brand",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality offers plausible protection",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions can come later. Lighting can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer visible alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The narrowing of choices becomes a problem",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Making orange fashionable again would only go so",
+   "audit": "kept"
+  }
+ ],
+ "blog_short_humanizer_7": [
+  {
+   "tell": "forced_triad",
+   "quote": "with shadows, textures, and sometimes color removed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car can express its owner's taste.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These colors can express a carefully cultivated identity.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "serve as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These incentives favor interiors that few people will",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also acquired cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A logo must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Logo design and interior design share some pressures",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet is full of color, while many",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A household, a restaurant owner, or a multinational",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Costly purchases, broad audiences, and fast-moving trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions can come later. Owners can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of people and businesses can make individually",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer visible alternatives",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "What troubles me is the narrowing of choices",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_8": [
+  {
+   "tell": "forced_triad",
+   "quote": "parking lots, real-estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "stripped of shadows, textures, and sometimes color itself",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer some clear examples",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car gives its owner a way to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Manufacturers offer what dealers expect to sell.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "ing_tail",
+   "quote": "reinforcing the apparent preference.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Choosing one of these colors can be a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "serve as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "These decisions favor interiors that are difficult to",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also gained cultural prestige.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the default rather than a style choice",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "but they are different trends.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet is full of color, even as",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Households, restaurant owners, and multinational brands",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Costly purchases, broad audiences, and fast-moving trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "through cushions, lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm has value.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The concern is the narrowing of choices",
+   "audit": "dropped"
+  }
+ ],
+ "blog_short_humanizer_9": [
+  {
+   "tell": "forced_triad",
+   "quote": "parking lots, real estate listings, and successive generations",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "with shadows, textures, and sometimes color removed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer some striking comparisons with today",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "drab, dusty, or industrial",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "A car is an expressive object and an",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Dealers stock what buyers seem to want, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "serve as both a place to live",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "neutral walls, restrained finishes, and uncomplicated cabinetry",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "Distinctive taste becomes a potential liability.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "someone's favorite kitchen and someone else's renovation budget",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "They can also be difficult to love.",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Neutrality also became culturally prestigious.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "simplicity with honesty, order, and progress",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neutral design often feels less like a style",
+   "audit": "dropped"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Logos must work across an enormous range",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "but each has its own pressures.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "easy to discover, imitate, and purchase",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The internet is full of color, while the",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Households, restaurant owners, and multinational brands",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "Neutrality offers plausible protection",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "purchases are costly, audiences are broad, and trends",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Colorful cushions, different lighting, or a bright image",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Thousands of individually sensible decisions can produce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offer visible alternatives",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their uneven success shows that tastes can change.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Visual calm is worth having.",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The narrowing of choices becomes a problem",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Making orange fashionable again would accomplish only so",
+   "audit": "kept"
+  }
+ ],
+ "editorial_base": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should not have died in *The",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Not because children’s movies must be cheerful,",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "not because fictional animals deserve immunity from",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Not because children’s movies must be cheerful,",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It succeeds almost unbearably well.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But emotional force is not the same",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "a more interesting question: Was killing him",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up—without sacrificing",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "without sacrificing suspense or giving Scar a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There might, however, have been a better",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "he is not merely powerful",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "authority means service, not simply getting his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Then the film removes him before those",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage, grants the young",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It is efficient. It is also limiting.",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Growing up does not always require losing",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "not bereavement but learning how to become",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than in the enormous shadow cast",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured alongside Mufasa rather",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Let Scar’s Betrayal Have Consequences Beyond a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Keeping Mufasa alive would not mean eliminating",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "gravely injured, stranded beyond the Pride Lands,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The central conflict would remain intact.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "What changes is the range of dramatic",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "strength does not make someone invulnerable",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "He might no longer be capable of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That would give the film something its",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "available to offer guidance but never required",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "He would simply have to be a",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "He would simply have to be a",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Simba Needs Agency, Not an Empty Throne",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that a surviving",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Because leadership should involve more than being",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Returning would then require more than accepting",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "He could not merely wait for his",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That is a strong test of adulthood:",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "The question would no longer be only",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Grief Is Valuable. It Is Not Mandatory.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "None of this diminishes what Mufasa’s death",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That value deserves acknowledgment.",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But a film’s capacity to console does",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "is true in general and insufficient here",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Nor would survival erase consequences.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Survival need not mean restoration to an",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "A happy outcome is not automatically an",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "A happy outcome is not automatically an",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Still, unforgettable is not synonymous with indispensable.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Still, unforgettable is not synonymous with indispensable.",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "The father could not remain an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "betrayal, danger, moral urgency, and a decisive",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "What it would lose is the assumption",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "not so Simba could avoid growing up,",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_humanizer_1": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived the stampede in",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Scar’s betrayal, the fall, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But that defense assumes a living Mufasa",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "powerful, certain, and able to protect him",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The stampede could have changed that.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa becomes a memory whose wisdom Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It also limits the kinds of growing",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, the outstretched claws, and the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "ask something of him that physical strength",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Survival would leave him with unfinished business.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that a surviving",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Waiting for his father to restore order",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "beyond his place in the succession",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Living up to Mufasa would remain important,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Questioning the decision to kill him means",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "can offer genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neither could return to the relationship they",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I think that risk would have been",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "needed help, made mistakes, and could still",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Watching them find their way through that",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_humanizer_10": [
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But that argument treats one route to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, occasionally exasperated, and playful",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a parent’s death clears the stage, gives",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That is efficient storytelling, though it limits",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A child discovers that a beloved father",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "including children whose lives have not been",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "tested his father’s lessons, misunderstood them, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa’s survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "he could neither inherit automatically nor leave",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There is a difficult, familiar kind of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "They could be happy to find one",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be the invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "betrayal, danger, and moral urgency",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "watched, needed his help, and learned to",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_humanizer_11": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should not have died in *The",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "run_up",
+   "quote": "But was killing him the best way",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, occasionally exasperated, and playful",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "death clears the stage and grants the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That makes for an efficient plot, though",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something the original film largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa’s survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "waiting for his father to restore order",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There is a difficult, recognizable passage into",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with death",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could still lose years with his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Neither father nor son would be able",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Such an ending could be happy while",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see them",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_12": [
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But Simba could have faced those responsibilities",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, occasionally exasperated, and playful",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a parent dies, the young protagonist gains",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It is an efficient way to set",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There would have been plenty for them",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "An older authority figure would have to",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa’s survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Waiting for his father to restore order",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Recognizing that someone who once protected you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "beyond his place in the succession",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their differences could become part of how",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Questioning the decision to kill Mufasa does",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "not a reason to rule out other",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could still spend years separated from",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even after Scar’s defeat, neither father nor",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I understand why the scene feels indispensable.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived. I would have",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_2": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "A survival story could make that impossible.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "faults, disagreeing with them, and taking responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba and Mufasa could have gone through",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Keep the stampede, the outstretched claws, Scar's",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Those events would preserve the central conflict",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see what",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Survival would leave room for his wisdom",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to this version is",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "with no chance of waiting for his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he can",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides real comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could still spend years separated from",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their happiness would have to accommodate those",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Simba would have to give up being",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived. I wanted to",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_3": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But an injured, surviving Mufasa could have",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It is an efficient way to get",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "struggle with his father’s advice, decide where",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something the original film largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa’s survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would put him at immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Many people reach adulthood through some version",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he can",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "the creative choice that made them possible",
+   "audit": "kept"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could still lose years with his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Reuniting would leave them with damage to",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa would have to give up being",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Keeping Mufasa alive would give that struggle",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Mufasa",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_4": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But a surviving Mufasa could have given",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, occasionally exasperated, and playful",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes Mufasa before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That is an efficient way to start",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That would give him something to do",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa’s survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Waiting for his father to restore order",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There is plenty of room for a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Living up to Mufasa would remain important,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It also leaves room to ask what",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could lose years with his family.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their reunion could be happy and still",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I think that would have been worth",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_5": [
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But an injured, absent Mufasa could have",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, occasionally exasperated, and playful",
+   "audit": "dropped"
+  },
+  {
+   "tell": "ing_tail",
+   "quote": "turning a complicated relationship into a motivating",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "gravely injured, stranded beyond the Pride Lands,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that a surviving",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "without waiting for his father to restore",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with death",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could lose years with his family.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That ending could be happy without returning",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Simba would have to accept that his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived because watching Simba",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_6": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But a surviving Mufasa could have given",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, sometimes exasperated, and playful with",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "why a king must serve others and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It is an efficient way to move",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "is fallible, disagree with him, or struggle",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "enough warmth, authority, and friction to sustain",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Their relationship had enough warmth, authority, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Scar’s outstretched claws, his betrayal, and Mufasa’s",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Survival would give Mufasa problems he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "A living father need not be a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "His place in the succession would offer",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Questioning the decision to kill Mufasa does",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disability, recovery, reconciliation, and changing relationships",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa’s survival would hardly return them to",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "but the victory would leave them with",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Simba",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_humanizer_7": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived the stampede in",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Scar’s betrayal, the fall, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But a surviving Mufasa could have placed",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film kills him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It is an efficient way to get",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "to watch, worry, or disagree",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "A child discovers that someone they admire",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Keep the stampede, the outstretched claws, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Simba could flee under the weight of",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Survival would leave the central conflict intact",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "An older authority figure would then have",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see what",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to this version is",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "beyond his position in the succession",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers real comfort to some grieving viewers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Questioning the choice to kill him does",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "There could be happiness in their reunion",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The scene works.",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I wish Mufasa had lived long enough",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_8": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "A surviving Mufasa could have given Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, playful with his son, and occasionally",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Simba wants the freedom to do whatever",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film kills Mufasa before that disagreement",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "It is an efficient choice, though it",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "They can disagree, make their own decisions,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Keep the stampede, the outstretched claws, the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Survival would leave the central conflict in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa would have to change. That is",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa’s survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "more fully than his position in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Living up to his father would become",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Questioning the decision to kill Mufasa does",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could still lose years with his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Bringing them back together would leave plenty",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "betrayal, danger, and a decisive struggle",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived long enough for",
+   "audit": "kept"
+  }
+ ],
+ "editorial_humanizer_9": [
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar’s betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But that journey could also begin with",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "affectionate, occasionally exasperated, and playful",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Simba wants to get his way; Mufasa",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film ends that conversation before either",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That is efficient storytelling, though it leaves",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "They can disagree, disappoint each other, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "I would have liked to see Simba",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that a surviving",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "that being the available heir alone could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "He would also have to face an",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the pressure to live up to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "An injured Mufasa could no longer be",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived so we could",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_1": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can include tragedy",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, and Simba",
+   "audit": "dropped"
+  },
+  {
+   "tell": "run_up",
+   "quote": "Was his death actually the best choice",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "authority as service rather than permission",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and grants the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That efficiency comes at the cost of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "whose central challenge is not bereavement",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured alongside Mufasa.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The central conflict would remain intact, with",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that a surviving",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Leadership should demand more of Simba than",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps his return would expose him to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba taking responsibility for the kingdom while",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_short_humanizer_10": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can accommodate tragedy",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "authority as service rather than permission",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and grants the",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That efficiency comes at the cost of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that a surviving",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps his return would expose him",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba would have to lead while his",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_11": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can accommodate tragedy",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He plays with his son, occasionally loses",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "authority as service rather than permission",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The approach is efficient, but it limits",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "without the defining experience of bereavement",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured through daily life",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, the outstretched claws, the betrayal,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "A surviving Mufasa raises a reasonable question",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the pressure to live up to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Simba could still lose years with his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "A loving father would remain present as",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "They would face betrayal and danger, with",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_short_humanizer_12": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "run_up",
+   "quote": "Was it the best choice for the story?",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The case for his survival has nothing",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "The case for his survival has nothing",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "But Simba could have matured while his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his power, his affection, and his occasional",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "serving others rather than simply getting his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film kills him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and grants the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That efficiency comes at the expense of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with them, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something the original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to keeping Mufasa alive",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Leadership should demand more of Simba than",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even a happy outcome would leave them",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba would have to lead while his",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_2": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can contain tragedy",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The scene itself works.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He plays with his son, occasionally loses",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "authority as service rather than permission",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and gives the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That is an efficient way to tell",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "without bereavement as their central challenge",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have gone through those changes",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The central conflict would remain intact.",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to keeping Mufasa alive",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Yet being the only available heir is",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the pressure to live up to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the betrayal and danger, the moral urgency,",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba would return to a devastated home",
+   "audit": "dropped"
+  }
+ ],
+ "editorial_short_humanizer_3": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can include tragedy",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The question is whether this particular death",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "authority as service rather than permission",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and gives the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, or accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured alongside Mufasa",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids:",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "raises a real question about Simba's role",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even a happy outcome would leave them",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba taking responsibility for the kingdom while",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_4": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can include tragedy",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He plays with his son, occasionally loses",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than coping with bereavement",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, the outstretched claws, the betrayal,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "A surviving Mufasa raises a substantial objection",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Simba would need responsibilities beyond being the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the pressure to live up to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "It could also challenge the assumption that",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived, with Simba learning",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_5": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than any belief that children's movies",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "rather than any belief that children's movies",
+   "audit": "kept"
+  },
+  {
+   "tell": "run_up",
+   "quote": "spared it a question: Was killing Mufasa",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He plays with his son, occasionally loses",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and grants the",
+   "audit": "kept"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That approach is efficient, but it limits",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured through an ongoing",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids:",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa's survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "could ask more of Simba than being",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived so the film",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_6": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can accommodate tragedy",
+   "audit": "kept"
+  },
+  {
+   "tell": "run_up",
+   "quote": "Was it the best choice for the story?",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than simply the freedom to get",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film kills him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That efficiency comes at a cost.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagree with them, and accept responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than bereavement, can recognize them",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have faced those difficulties alongside",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "a stampede, outstretched claws, a betrayal,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to Mufasa's survival concerns",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with death",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "questioning the decision to kill Mufasa leaves",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even a happy outcome would leave them",
+   "audit": "kept"
+  },
+  {
+   "tell": "heading_repeated",
+   "quote": "Letting Mufasa survive would have been the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Betrayal, danger, and moral urgency would still",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_7": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "The stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "run_up",
+   "quote": "was killing him the best choice? I",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can include tragedy",
+   "audit": "kept"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The question is what this particular death",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He plays with his son, occasionally loses",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "serving others rather than simply getting his",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage and grants the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That efficiency comes at the cost of",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "disagreeing with that parent, and accepting responsibility",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than bereavement, may recognize them",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured alongside Mufasa",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something the original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection is that Mufasa's survival",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Leadership would then demand more of him",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "provides genuine comfort",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even a happy outcome would leave them",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "With Mufasa alive, Simba could become a",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_8": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have survived in *The Lion",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Children's movies can include tragedy",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "My objection is to the storytelling choice.",
+   "audit": "kept"
+  },
+  {
+   "tell": "run_up",
+   "quote": "another question out of view: Was killing",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He is playful with his son, occasionally",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film removes him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death clears the stage, grants the young",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "That efficiency limits what the story can",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to this version is",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "build alliances, persuade a frightened pride, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba would have to become a leader",
+   "audit": "kept"
+  }
+ ],
+ "editorial_short_humanizer_9": [
+  {
+   "tell": "heading_repeated",
+   "quote": "Mufasa should have lived in *The Lion King*.",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the stampede, Scar's betrayal, Simba nudging",
+   "audit": "dropped"
+  },
+  {
+   "tell": "run_up",
+   "quote": "Was it the best choice for the story?",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "responsibility, power, and growing up",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "grief to overcome, guilt to confront, and",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "He plays with his son, sometimes grows",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "The film kills him before those lessons",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Death efficiently clears the stage and gives",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "whose central challenge is not bereavement",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Simba could have matured alongside Mufasa",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the outstretched claws, the betrayal, and the fall",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "something its original structure largely avoids",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "The strongest objection to keeping Mufasa alive",
+   "audit": "dropped"
+  },
+  {
+   "tell": "repeated_openings",
+   "quote": "Perhaps returning would expose him to immediate",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Alongside the question of whether he could",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "offers an early encounter with loss",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "his health, his authority, or his certainty",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Even a happy outcome would leave them",
+   "audit": "kept"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "Mufasa could no longer be an invincible",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "It could do so without treating a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Mufasa should have lived, with Simba learning",
+   "audit": "kept"
+  }
+ ],
+ "guide_base": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "sage_line",
+   "quote": "The key is to start with a manageable",
+   "audit": "kept"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and build a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don’t need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "They offer flexibility but usually need",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "depend on your climate, not simply the month",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "More fertilizer is not better:",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "kept"
+  }
+ ],
+ "guide_humanizer_1": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, at midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "the watering, weeding, and other care felt manageable",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_10": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don’t need expensive equipment or perfect soil.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, at midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "poor airflow, more disease, and smaller harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow up it without spreading across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, or appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_11": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don’t need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, around midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone won’t tell you when to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "even if it seems like a good use",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward instead of spreading across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "instead of watering on a fixed schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_12": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_2": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_3": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, around midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone won't tell you when to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "can climb instead of spreading across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, or appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_4": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, at midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "The month alone isn't enough to go by.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow and harvests, and increase disease",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward without spreading across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, or appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_5": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, around midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "even if it seems like a good way",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "slows evaporation, reduces weeds, and moderates soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, or appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_6": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don't need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, around midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_7": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don’t need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone won’t tell you when to",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "Keeping it small and healthy gives you a",
+   "audit": "kept"
+  }
+ ],
+ "guide_humanizer_8": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don’t need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Check in the morning, at midday, and in",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "or drainage is poor, or if you want",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow up it without spreading across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_humanizer_9": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "You don’t need expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "or drainage is poor, or if you want",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "instead of watering on a fixed schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_1": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and set up",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "They offer flexibility but usually need",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not enough to go",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_10": [
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not enough to go",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "that you enjoy tending is rewarding.",
+   "audit": "kept"
+  }
+ ],
+ "guide_short_humanizer_11": [
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "They offer flexibility but usually need",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone isn't enough to go by",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_12": [
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not a reliable guide",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "It can also limit harvests.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_2": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and build a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone isn't enough.",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Picking pests off by hand, using insect netting,",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_3": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and build a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "depends on your soil, space, and budget:",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not a reliable guide",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "instead of spreading across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "kept"
+  }
+ ],
+ "guide_short_humanizer_4": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and build a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "They offer flexibility but usually need",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Removing pests by hand, using insect netting, or",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_5": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and set up",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not enough to go",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "can be more rewarding than a large one",
+   "audit": "kept"
+  }
+ ],
+ "guide_short_humanizer_6": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and set up",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, at midday, and in the",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone isn't a reliable guide",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "kept"
+  }
+ ],
+ "guide_short_humanizer_7": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and build a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "begin without expensive equipment or perfect soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "They offer flexibility but usually need",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not enough to go",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "even if it seems like an efficient use",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "dropped"
+  }
+ ],
+ "guide_short_humanizer_8": [
+  {
+   "tell": "forced_triad",
+   "quote": "choose crops you enjoy eating, and establish a",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "walk, kneel, and carry a watering can comfortably",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "your available sunlight, space, and growing season",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not enough to go",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "even if it seems like an efficient use",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Hand-picking, insect netting, and appropriate barriers",
+   "audit": "dropped"
+  },
+  {
+   "tell": "dramatic_closer",
+   "quote": "is more rewarding than a large one you",
+   "audit": "kept"
+  }
+ ],
+ "guide_short_humanizer_9": [
+  {
+   "tell": "not_x_but_y",
+   "quote": "without becoming a full-time job",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "in the morning, midday, and afternoon",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "soil is compacted, drainage is poor, or you",
+   "audit": "dropped"
+  },
+  {
+   "tell": "avoiding_is_has",
+   "quote": "They offer flexibility but usually need",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "industrial use, older painted structures, or possible contamination",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "use potting mix rather than backyard soil",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "the month alone is not a reliable guide",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "extension service, reputable nursery, or regional gardening",
+   "audit": "dropped"
+  },
+  {
+   "tell": "arguing_with_no_one",
+   "quote": "Crowding may seem efficient, but it can reduce",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "reduce airflow, increase disease, and limit harvests",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "grow upward rather than across the yard",
+   "audit": "dropped"
+  },
+  {
+   "tell": "not_x_but_y",
+   "quote": "rather than watering on a rigid schedule",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "clean straw, shredded leaves, or another suitable mulch",
+   "audit": "dropped"
+  },
+  {
+   "tell": "forced_triad",
+   "quote": "Picking pests off by hand, using insect netting,",
+   "audit": "dropped"
+  }
+ ]
+}
