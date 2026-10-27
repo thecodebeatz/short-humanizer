@@ -46,6 +46,8 @@ Copy-paste the same prompt before your text.
 
 Ask Claude (or your AI of choice) to humanize the following crappy text. In an agent with the prompt in its SOUL.md there's nothing to invoke: the replies just come out with fewer tells.
 
+In Claude Code you can also invoke it directly with `/short-humanizer:short-humanizer`. If you also have blader's humanizer installed, Claude may pick that one when you just ask, so use the slash command.
+
 ## Does it really work?
 
 I put this to the test in the most scientific way I could, with GPT-6.1 Sol at medium reasoning as the writer:
