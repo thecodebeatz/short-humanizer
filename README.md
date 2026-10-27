@@ -2,7 +2,7 @@
 
 A short prompt (2,587 characters) to fix the most common AI tells / AI slop in text. It uses 12 times fewer tokens than [Blader's Humanizer](https://github.com/blader/humanizer).
 
-The whole story is in my blog post: [The Short-Humanizer](https://codebeats.net/posts/the-short-humanizer/).
+The whole story is in my blog post: [The Short-Humanizer](https://codebeats.net/blogpost/the-short-humanizer/).
 
 ## Why
 
